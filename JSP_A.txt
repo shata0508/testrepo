@@ -1,0 +1,120 @@
+1)   What technique is used for the authentication mechanism in the servlet specification?
+a. Role Based Authentication
+b. Form Based Authentication
+c. Both A & B
+d. None of the above
+a
+
+2)   Which attribute specifies a JSP page that should process any exceptions thrown but not caught in the current page?
+a. The ErrorPage Attribute
+b. The IsErrorPage Attribute
+c. Both A & B
+d. None of the above
+a
+
+4)   The ASP and JSP technologies are quite similar in the way they support the creation of Dynamic pages, using HTML templates, scripting code and components for business logic.
+a. True
+b. False
+a
+
+6)   In JSP Action tags which tags are used for bean development?
+a. jsp:useBean
+b. jsp:setPoperty
+c. jsp:getProperty
+d. All mentioned above
+d
+
+7)   Which two interfaces does the javax.servlet.jsp package have?
+a. JspPage
+b. HttpJspPage
+c. JspWriter
+d. PageContext
+e. Both A & B
+e
+
+8)   Which of the following is an advantage of the statement – Separation of business logic from JSP ?
+a. Custom Tags in JSP
+b. JSP Standard Tag Library
+c. All the above
+d. None of the above
+a
+
+9)   JSPs eventually are compiled into Java servlets, you can do as much with JSPs as you can do with Java servlets.
+a. True
+b. False
+a
+
+10)   who is not jsp implicit objects ?
+a. request
+b. session
+c. errorpage
+d. response
+c
+
+11)   JavaServer Pages often serve the same purpose as programs implemented using the Common Gateway Interface (CGI)
+a. True
+b. False
+a
+
+12)   Which action tags are used in JSP for developing web application with Java Bean?
+a. jsp:useBean
+b. jsp:setProperty
+c. jsp:getProperty
+d. Both B & C
+d
+
+4)   Which is the Microsoft solution for providing dynamic Web content?
+a. ASP
+b. JSP
+c. Both A & B
+d. None of the above
+a
+
+15)   A bean encapsulates many objects into one object, so we can access this object from multiple places.
+a. True
+b. False
+a
+
+16)   Which tag is used to execute java source code in JSP?
+a. Declaration Tag
+b. Scriptlet tag
+c. Expression tag
+d. None of the above
+b
+
+17)   Which JSP Action tags is used to include the content of another resource, it may be jsp, html or servlet?
+a. jsp:include
+b. jsp:forward
+c. jsp:plugin
+d. jsp:papam
+a
+
+18)   In JSP how many ways are there to perform exception handling?
+a. 3
+b. 2
+c. 4
+d. 5
+b
+
+19)   In JSP page directive which attribute defines the MIME(Multipurpose Internet Mail Extension) type of the HTTP response?
+a. import
+b. Content Type
+c. Extends
+d. Info
+
+b
+
+20)   A JSP page consists of which tags?
+a. HTML tags
+b. JSP tags
+c. Both A & B
+d. None of the above
+c
+
+21)    Which packages does a JSP API consist of?
+a. javax.servlet.jsp
+b. java.servlet
+c. javax.servlet.jsp.tagext
+d. Both A & C
+d
+
